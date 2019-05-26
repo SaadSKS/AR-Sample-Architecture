@@ -1,0 +1,71 @@
+Colosseum			-printable_models
+JTemple				-spectra_7
+Statue of Liberty		-printable_models
+Eiffel Tower			-printable_models
+Empire State Building		-printable_models
+Big Ben				-printable_models
+leaning tower of piza		-printable_models
+
+Taj Mahal			-Dada D
+Golden Gate Bridge		-3D Warehouse Staff
+Burj Khalifa			-3D Warehouse
+Tokyo Tower			-francois G.
+GreatSphinx			-giotis
+Space Needle			-3D Warehouse Staff
+Sydney Opera House		-jw_n_mo
+London Eye			-3dHH
+Notre Dame			-Alejandro Diaz
+Stonehenge			-Tom
+Buckingham Palace		-Guilherme G.
+Canton Tower			-Filip Michalowski
+CN Tower			-terraforma
+
+
+Collect all GO
+Collect all GO's names
+Sort them alphabetically
+
+
+
+1	BigBen
+2	BuckinghamPalace
+3	BurjKhalifa
+4	CantonTower
+5	CNTower
+6	Colosseum
+7	EiffelTower
+8	EmpireStateBuilding
+9	GoldenGateBridge
+10	GreatSphinx
+11	HimejiCastle	
+12	LondonEye
+13	NotreDame
+14	OperaHouse
+15	PisaTower
+16	SpaceNeedle
+17	StatueOfLiberty
+18	Stonehenge
+19	TajMahal
+20	TokyoTower
+
+
+Border Options:
+ON,in pos>>OFF in
+OFF, in pos>>ON in
+ON, out pos>>ON in
+OFF, out pos>>ON in
+
+
+
+Create Icons Steps:
+Crop 3x2.5 image
+save as PNG
+Crop to 1x1 with excess white portion at btm
+Set Image Size to 300x300 pixels
+Canvas Size increase by 20x20 pixels(blk bg)
+
+
+
+
+
+Marble 3D Track

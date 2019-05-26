@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 5728ddca5474d464eae54f02c0aec312
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Burj_Khalifa__Google_Earth_Version_1
+    100002: //RootNode
+    100004: Google_Earth_Snapshot
+    100006: Mesh1
+    100008: Mesh2
+    100010: Mesh3
+    100012: Susan1
+    400000: Burj_Khalifa__Google_Earth_Version_1
+    400002: //RootNode
+    400004: Google_Earth_Snapshot
+    400006: Mesh1
+    400008: Mesh2
+    400010: Mesh3
+    400012: Susan1
+    2100000: M_96_96_96
+    2100002: _Beige_1
+    2100004: Color_B24
+    2100006: _LightGray_
+    2100008: M_0135_DarkGray
+    2100010: jean_blue
+    2100012: _Charcoal_
+    2100014: Google_Earth_Snapshot1
+    2100016: BackColor
+    2100018: Schermafbeelding_2010_01_10_om_13_59_44
+    2100020: M_485px_Burj_Dubai_Under_Construction_on_8_May_2008_Pict_4_1
+    2100022: Schermafbeelding_2010_01_10_om_13_57_41
+    2100024: Schermafbeelding_2010_01_10_om_14_02_36
+    2100026: FrontColor
+    2100028: M_485px_Burj_Dubai_Under_Construction_on_8_May_2008_Pict_4
+    2100030: Schermafbeelding_2010_01_10_om_13_09_14
+    2100032: M_1bigburj_1_
+    2100034: Material3
+    2100036: Color_C01
+    2100038: Material28
+    2100040: back
+    2100042: _118
+    2300000: Mesh1
+    2300002: Mesh2
+    2300004: Mesh3
+    3300000: Mesh1
+    3300002: Mesh2
+    3300004: Mesh3
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: c4032260b643ea64796f1e0b27c046b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_B24
+    second: {fileID: 2100000, guid: da6282b514e0b8b458d1442df6d4ca56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_C01
+    second: {fileID: 2100000, guid: 5e27bd1076877bd43bf00336e72b1c04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: fc1176cb0854f114ca4e6f2c64aa4b12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Google_Earth_Snapshot1
+    second: {fileID: 2100000, guid: 65000183258de364999d563773af36ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0135_DarkGray
+    second: {fileID: 2100000, guid: f71aa95e3bda0634faa781d3170c3280, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_1bigburj_1_
+    second: {fileID: 2100000, guid: aa111253bc61da2498d9dc564d619253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_485px_Burj_Dubai_Under_Construction_on_8_May_2008_Pict_4
+    second: {fileID: 2100000, guid: cd196f5b0edc28047a26d189f3731d92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_485px_Burj_Dubai_Under_Construction_on_8_May_2008_Pict_4_1
+    second: {fileID: 2100000, guid: 6448d62c7f818ef42bc8e7688f9be9d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_96_96_96
+    second: {fileID: 2100000, guid: db6d3d4388472e444b3c4d47720cb854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material28
+    second: {fileID: 2100000, guid: 9d4840d7d1c30894ba973288b72008e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material3
+    second: {fileID: 2100000, guid: 63a0bcf9593812145a71930372584476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schermafbeelding_2010_01_10_om_13_09_14
+    second: {fileID: 2100000, guid: 8830aa934aec59f4ca28cb94ecdb0cb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schermafbeelding_2010_01_10_om_13_57_41
+    second: {fileID: 2100000, guid: ae389a89739321545b6444670be39677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schermafbeelding_2010_01_10_om_13_59_44
+    second: {fileID: 2100000, guid: 8a0dc7ea63736194dae7aea0a43a9348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schermafbeelding_2010_01_10_om_14_02_36
+    second: {fileID: 2100000, guid: e2359dec142b97044aa8c5e38b585305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _118
+    second: {fileID: 2100000, guid: 8df4d51bc851dd34aa76b34fb4b84412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Beige_1
+    second: {fileID: 2100000, guid: a1419fdc6d64239438fa11488dfbb356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100000, guid: 09dc61eaeeb3a0e46a51e7be56fee33e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _LightGray_
+    second: {fileID: 2100000, guid: 427079adac66a534eb258446ad00f2c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back
+    second: {fileID: 2100000, guid: d0536c63b20d6e94eb7075492b8c14b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jean_blue
+    second: {fileID: 2100000, guid: 81c98528a45d0a44bb0330766eff493c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
